@@ -1,5 +1,5 @@
 # Cody
-Solutions/submissions to codedex related stuffs.
+Solutions/submissions to [codedex](https://codedex.io/) related stuffs.
 
 
 ## Checkpoint Projects

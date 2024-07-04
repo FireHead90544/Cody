@@ -10,4 +10,8 @@ Checkpoint project for Codedex React Course write with React & TailwindCSS.
 4. Run `npm run dev` to start the development server
 5. Run `npm run build` to build for production. The build files will be in the `dist` folder
 
+# Usage
+*Use spacebar/enter key to generate a new quote*
+
 # Demo
+![image](https://github.com/FireHead90544/Cody/assets/55452780/79bd5aa3-91f3-413b-8588-92dda5ab53f2)

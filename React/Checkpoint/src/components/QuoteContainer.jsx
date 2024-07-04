@@ -22,7 +22,6 @@ const QuoteContainer = () => {
     }, []);
 
     const handleKeyDown = (event) => {
-        console.log("Hi there key pressed");
         if (event.key === "Space" || event.key === " " || event.key === "Enter"){
             fetchQuote();
         }
